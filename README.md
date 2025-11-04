@@ -1,2 +1,0 @@
-# szeryf
-strona google
